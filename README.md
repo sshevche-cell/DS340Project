@@ -5,3 +5,7 @@ Term Memory Neural Networks" project completed during the "DS340: Introduction t
 
 
 The project has fundamentally two parts: Technical and Sentiment, which first start separately and eventually merge later on before the construction of the final LSTM.
+
+Option 1: Run the Sentiment part in full and after run the Technical part in full.
+
+Option 2: Run the Technical part until "IMPORT SENTIMENT", run the Sentiment part in full, finish running the Technical part. 
