@@ -18,4 +18,4 @@ Option 2 Steps:
 3. Finish running the Technical part
 
 Option 3 Steps (Easiest Run): 
-1. Run "Final_Project_Code.ipynb" with the final sentiment dataset "" at hand.
+1. Run "Final_Project_Code.ipynb" with the final sentiment dataset "final_sentiment_features_daily.csv" at hand.
