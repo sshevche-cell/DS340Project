@@ -8,6 +8,11 @@ The project has fundamentally two parts: Technical and Sentiment, which first st
 
 How to run?
 
-Option 1: Run the Sentiment part in full and after run the Technical part in full.
+Option 1 Steps: 
+1. Run the Sentiment part in full
+2. Run the Technical part in full
 
-Option 2: Run the Technical part until "IMPORT SENTIMENT", run the Sentiment part in full, finish running the Technical part. 
+Option 2 Steps: 
+1. Run the Technical part until "IMPORT SENTIMENT"
+2. Run the Sentiment part in full
+3. Finish running the Technical part
