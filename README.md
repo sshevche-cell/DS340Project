@@ -16,3 +16,6 @@ Option 2 Steps:
 1. Run the Technical part until "IMPORT SENTIMENT"
 2. Run the Sentiment part in full
 3. Finish running the Technical part
+
+Option 3 Steps (Easiest Run): 
+1. 
